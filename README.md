@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img width="1076" height="126" alt="Image" src="https://github.com/user-attachments/assets/a2290618-5e49-4dc9-9123-3331fd497613" />
+</p>
 
 <!--
 **toybonniee/toybonniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
