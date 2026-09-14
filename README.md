@@ -20,3 +20,43 @@
 <p align="center">
  ${\textsf{\color{#F0FFFF}TOY BONNIE KIN}}$
 </p>
+
+<p align="center">
+  <img width="300" src="https://github.com/toybonniee/toybonniee/blob/be540da549d5a4077660e5d7631871f1d618dd28/tumblr_0b982711055df7d2c9e288023a2923f6_d68146e3_250.gif">
+</p>
+
+<p align="center">
+  <img width="700" src="https://github.com/toybonniee/toybonniee/blob/10317cb948e06dd0d61d43d5b80e5e9a29c869df/tumblr_148afeb53b420a950ac1fe7f7e003302_7030c4a0_1280.png">
+</p>
+
+<p align="center">
+ ${\textsf{\color{#89CFF0}Miles . Rudo . Minor .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#6495ED}Aromantic . Trans ftm . They / He .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#4682B4}Fav FNaF chars . Foxy . Bonnie . Mangle .}}$
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/toybonniee/toybonniee/blob/10317cb948e06dd0d61d43d5b80e5e9a29c869df/tumblr_211f337f26a47d45d96a89e94cfd0039_22ca3c10_540.gif.webp">
+</p>
+
+<p align="center">
+ ${\textsf{\color{#89CFF0}Hellaverse . DDLC . Adult Shows . DNI .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#6495ED}Alnst . Minecraft DNI .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#4682B4}Friends + Friends of friends int .}}$
+</p>
+
+<p align="center">
+  <img width="700" src="https://github.com/toybonniee/toybonniee/blob/10317cb948e06dd0d61d43d5b80e5e9a29c869df/tumblr_148afeb53b420a950ac1fe7f7e003302_7030c4a0_1280.png">
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/toybonniee/toybonniee/blob/10317cb948e06dd0d61d43d5b80e5e9a29c869df/fnaf_2_celebrate_poster_by_gamesproduction_dbfu89w-fullview.jpg">
+</p>
