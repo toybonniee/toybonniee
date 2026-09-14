@@ -9,3 +9,14 @@
 <p align="center">
   <img width="150" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftoybonniee&label=CUSTOMERS&labelColor=%232ccce4&countColor=%23d9e3f0&style=plastic&labelStyle=lower">
 </p>
+
+<p align="center">
+ ${\textsf{\color{#00FFFF}No kidding !}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#00FFFF}You thought you could survive me ?}}$
+</p>
+
+<p align="center">
+ ${\textsf{\color{#F0FFFF}TOY BONNIE KIN}}$
+</p>
