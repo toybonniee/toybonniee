@@ -64,3 +64,9 @@
 <p align="center">
   <img width="600" src="https://github.com/toybonniee/toybonniee/blob/10317cb948e06dd0d61d43d5b80e5e9a29c869df/fnaf_2_celebrate_poster_by_gamesproduction_dbfu89w-fullview.jpg">
 </p>
+<p align="center">
+<img width="97" alt="image" src="https://github.com/user-attachments/assets/fcbddf69-9829-447c-aa3a-f705240b35a6" /> <img width="97" alt="image" src="https://github.com/user-attachments/assets/22789dc9-d879-455b-82ef-58eac86c2ee4" />
+</p>
+<p align="center">
+ ${\textsf{\color{#89CFF0}special mention to mangle zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ }}$
+</p>
