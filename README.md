@@ -68,5 +68,5 @@
 <img width="97" alt="image" src="https://github.com/user-attachments/assets/fcbddf69-9829-447c-aa3a-f705240b35a6" /> <img width="97" alt="image" src="https://github.com/user-attachments/assets/22789dc9-d879-455b-82ef-58eac86c2ee4" />
 </p>
 <p align="center">
- ${\textsf{\color{#89CFF0}special mention to mangle zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ }}$
+ ${\textsf{\color{#6495ED}special mention to mangle zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ }}$
 </p>
