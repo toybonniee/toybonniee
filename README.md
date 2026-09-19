@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#89CFF0}Miles . Rudo . Minor .}}$
+ ${\textsf{\color{#89CFF0}Miles . Durin . Minor .}}$
 </p>
 <p align="center">
  ${\textsf{\color{#6495ED}Aromantic . Trans ftm . They / He .}}$
